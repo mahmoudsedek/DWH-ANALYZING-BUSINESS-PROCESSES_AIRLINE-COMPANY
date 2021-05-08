@@ -4,7 +4,6 @@ Construct logical data model for an airline company and translate it to a physic
 Project Description
 
 
-
 A major airline company decided to hire you in order to assist the executive management to analyze their current business processes and expand the company by discovering new opportunities.
 
 Executives decided that the first deliverable should focus on the flight activity in order to ensure good ongoing business process.
